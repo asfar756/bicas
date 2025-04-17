@@ -1,0 +1,66 @@
+body {
+    background: linear-gradient(135deg, #e0f7f5, #ffffff)   
+}
+.biccas{font-size: 40px;
+color: #54BD95;}
+.hero-section {
+    display: flex;
+    background: linear-gradient(135deg, #e0f7f5, #ffffff);
+    padding: 60px 0;
+}
+.hero-image{
+    display: flex;
+    justify-content: flex-end;
+    
+}
+.hero-text-h1{font-size: 80px;
+font-weight: 800;
+padding-bottom: 30px;}
+.free-btn{ border-radius:25px ; -webkit-border-radius:25px ; -moz-border-radius:25px ; -ms-border-radius:25px ; -o-border-radius:25px ; }
+.collab-img{
+    height: 20px;
+       width: 100px;
+    margin: 20px;  
+}
+.f-st1{
+    font-size: 40px;
+    font-weight: 700;  
+}
+.f-st2{
+    margin-top: 20px;
+}
+.get-started {border-radius: 20px;
+    font-size: 20px;
+margin-top: 50px;
+padding: 20px 30px;}
+.benefit {font-size: x-large;
+font-weight: 500;}
+.features .card, .pricing .card {
+    border: none;
+    border-radius: 15px;
+}
+.pricing {
+    background: #f8f9fa;
+}
+footer {
+    background: #212529;
+
+}
+.footer-main{
+    padding-top: 100px 100px;
+}
+
+.feature-icon {
+    width: 40px;
+    height: 40px;
+}
+.list-unstyled{
+    padding-bottom: 50px;
+}
+
+.btn-bill{padding-top: 25px 25px;}
+@media screen and (max-width: 560px){
+    .hero-text-h1 {font-size: 40px;}
+
+}
+  
